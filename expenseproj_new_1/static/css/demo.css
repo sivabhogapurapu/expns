@@ -1,0 +1,31 @@
+body{
+background: url(https://images.unsplash.com/photo-1565514158882-617325fbd873?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80 );
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+td,table{
+border: 2px solid red;
+color:red;
+background:white;
+font-size:15px;
+margin-left: 50px;
+}
+
+thead{
+background:yellow;
+color:black
+}
+
+th{
+border: 2px solid red;
+}
+
+h1{
+color:gray
+}
+
+h4{
+margin-left: 50px;
+}
+
